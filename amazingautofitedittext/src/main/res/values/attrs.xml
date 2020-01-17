@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<declare-styleable name="AmazingAutofitEditText">
+		<attr name="minTextSize" format="dimension" />
+		<attr name="maxTextSize" format="dimension" />
+		<attr name="minWidth" format="dimension" />
+		<attr name="clipBounds" format="boolean" />
+		<attr name="rotatable" format="boolean" />
+		<attr name="resizable" format="boolean" />
+		<attr name="movable" format="boolean" />
+	</declare-styleable>
+
+</resources>
