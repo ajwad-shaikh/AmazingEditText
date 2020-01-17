@@ -12,7 +12,7 @@ mode on WhatsApp or Instagram!
 
 ## Demo
 
-![Screenshot1](https://i.imgur.com/ryL1EtA.gif)
+![Screenshot1](https://i.imgur.com/hJjoB8J.gif)
 
 ## Usage
 
